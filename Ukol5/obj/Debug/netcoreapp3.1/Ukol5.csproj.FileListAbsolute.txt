@@ -1,0 +1,13 @@
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.exe
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.deps.json
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.runtimeconfig.json
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.runtimeconfig.dev.json
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.dll
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\bin\Debug\netcoreapp3.1\Ukol5.pdb
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.csprojAssemblyReference.cache
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.AssemblyInfoInputs.cache
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.AssemblyInfo.cs
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.csproj.CoreCompileInputs.cache
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.dll
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.pdb
+F:\Škola\2020-2021\PGA\Úkoly\UkolyPromenne\Ukol5\obj\Debug\netcoreapp3.1\Ukol5.genruntimeconfig.cache
